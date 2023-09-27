@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestStep</string>
+
+    <string name="format_samsung">삼성헬스 걸음수 : %d</string>
+    <string name="format_current_walk">내 걸음수 : %d</string>
+    <string name="health_connect_install_guide">헬스커넥트를 설치 및 업데이트 하셔야 합니다.</string>
+    <string name="health_connect_permission_guide">헬스커넥트 권한을 취득하셔야 합니다.</string>
+    <string name="btn_setting">설정하기</string>
+</resources>
